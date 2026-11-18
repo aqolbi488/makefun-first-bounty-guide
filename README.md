@@ -180,11 +180,10 @@ the results page states — unclaimed prizes eventually go back to the pool.
 ## Your own referral link
 
 Every account gets a link shaped like `https://make.fun/r/<code>`, and
-`?ref=<code>` on any make.fun page carries the same code. The first link a
-visitor's browser sees wins for 60 days: a later link does not replace it.
-You earn USDC when people sign up through your link and genuinely take part,
-plus a share of what they win for a while afterwards — paid by make.fun on
-top, so their own reward stays whole. Your link, the current value of each
+`?ref=<code>` on any make.fun page carries the same code. You earn USDC
+when people sign up through your link and genuinely take part, plus a
+share of what they win for a while afterwards — paid by make.fun on top,
+so their own reward stays whole. Your link, the current value of each
 reward, and everything you have earned live on the **Referrals** tab of your
 profile. Only real new accounts that take part ever count; fake, idle, and
 bot signups never do.
